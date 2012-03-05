@@ -4,7 +4,8 @@ bq. "OH MY ZSHELL!"
 
 h1. Notice
 
-this fork of @oh-my-zsh@ was made as a way of ease the task of install and configurate my zsh settings among several computers.
+this fork of @oh-my-zsh@ was made as a way of ease the task of installing and configurating my @zsh@ settings among several computers, using my @.dotfile@ "repository":https://github.com/Couto/.dotfiles
+
 If you're looking for the original repository of @oh-my-zsh@ please visit: 
 
 "Oh-my-zsh":https://github.com/robbyrussell/oh-my-zsh
